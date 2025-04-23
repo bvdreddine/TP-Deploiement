@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <div className="home-container">
       <div className="hero-section">
-        <h1>Welcome to TaskVault</h1>
+        <h1>Welcome to My WebSite</h1>
         <p>A secure platform to manage your tasks and items efficiently</p>
         
         {isAuthenticated ? (
